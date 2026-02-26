@@ -1,6 +1,5 @@
 numpy
 pandas
-html
 torch
-transformers
+transformers[torch]
 scikit-learn
